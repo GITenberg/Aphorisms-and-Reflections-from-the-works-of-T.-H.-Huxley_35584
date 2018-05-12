@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '37767'
     url: http://www.gutenberg.org/2009/agents/37767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35584#Aphorisms-and-Reflections-from-the-works-of-T.-H.-Huxley
 gutenberg_issued: '2011-03-16'
 gutenberg_type: Text
 identifiers:
